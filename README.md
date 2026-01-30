@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hnm-31/Leet-GFG/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Hnm-31/Leet-GFG/tree/master/0014-longest-common-prefix) |
 | [1539-kth-missing-positive-number](https://github.com/Hnm-31/Leet-GFG/tree/master/1539-kth-missing-positive-number) |
 | [2643-row-with-maximum-ones](https://github.com/Hnm-31/Leet-GFG/tree/master/2643-row-with-maximum-ones) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hnm-31/Leet-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hnm-31/Leet-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hnm-31/Leet-GFG/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hnm-31/Leet-GFG/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
