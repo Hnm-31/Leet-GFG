@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Hnm-31/Leet-GFG/tree/master/1539-kth-missing-positive-number) |
 | [2643-row-with-maximum-ones](https://github.com/Hnm-31/Leet-GFG/tree/master/2643-row-with-maximum-ones) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Hnm-31/Leet-GFG/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3637-trionic-array-i](https://github.com/Hnm-31/Leet-GFG/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
