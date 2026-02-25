@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hnm-31/Leet-GFG/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Hnm-31/Leet-GFG/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
